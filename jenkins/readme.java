@@ -1,5 +1,5 @@
 
-public class sample {
+public class readme {
 
 	public int addNum() {
 		int a=1;
